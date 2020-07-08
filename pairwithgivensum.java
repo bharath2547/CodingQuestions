@@ -1,3 +1,5 @@
+//Find pair with given sum in the array
+
 package example;
 
 import java.util.*;
